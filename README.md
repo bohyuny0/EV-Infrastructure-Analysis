@@ -34,5 +34,4 @@ Additionally, download **`final.py`** from the repository.
 4. The **Electric Vehicle Dashboard** will open in your web browser.
 
 ### **‼️ Important Notes**
-- When selecting **"EV Charging Stations"** from the sidebar and navigating to **"Locations of EV Charging Stations"**, the map should be displayed.  
-- **If the map does not load, please reload the page.**  
+- When selecting **"EV Charging Stations"** from the sidebar and navigating to **"Locations of EV Charging Stations"**, the map should be displayed. **If the map does not load, please reload the page.**  
