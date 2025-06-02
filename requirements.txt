@@ -5,3 +5,4 @@ folium
 numpy
 pillow
 streamlit-folium
+statsmodels
