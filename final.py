@@ -27,7 +27,7 @@ menu_option = st.sidebar.radio("Select a section:", ["Overview", "EV Charging St
 # Fill the remaining space of the sidebar and add developer information
 with st.sidebar:
     st.markdown("<div style='height: 300px;'></div>", unsafe_allow_html=True)  # Add adjustable empty space
-    st.markdown("<p style='position: absolute; bottom: -90px; font-size: 14px; color: gray;'>" "Developed by <b>Ella Yang</b></p>", unsafe_allow_html=True)
+    st.markdown("<p style='position: absolute; bottom: -90px; font-size: 14px; color: gray;'>" "Developed by <b>Grace Yang</b></p>", unsafe_allow_html=True)
 
 # Display on screen
 st.title("Electric Vehicle Dashboard")
